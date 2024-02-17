@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>测试上传文章</title>
+    <link href="/2024/02/17/%E6%B5%8B%E8%AF%95%E4%B8%8A%E4%BC%A0%E6%96%87%E7%AB%A0/"/>
+    <url>/2024/02/17/%E6%B5%8B%E8%AF%95%E4%B8%8A%E4%BC%A0%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="上传github成功"><a href="#上传github成功" class="headerlink" title="上传github成功"></a>上传github成功</h1><ul><li>网页部署成功<br>测试上传文章是否成功，然后解决抬头标题乱码，之后解决文件夹打开cmd不是管理员，最后换一个更顺眼的主题。</li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>实验</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>测试文章</title>
     <link href="/2024/02/17/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2024/02/17/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
